@@ -10,5 +10,3 @@ Discord 태그 : ArceRoot_#8344
 
 [![Discord](https://img.shields.io/discord/702880464893116518?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/DyGqBZm)
 
-[이메일](mailto:gm3294@naver.com)
-
