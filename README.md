@@ -5,7 +5,5 @@
 - 👟 항상 발로 뛰며 최대의 결과를 내기 위해 노력하고 있어요.
 
 # 소통하기 📫
-Discord 태그 : ArceRoot_#8344
-
 [![Discord](https://img.shields.io/discord/702880464893116518?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/DyGqBZm)
 
